@@ -44,17 +44,14 @@
     <link href="http://www.huangzijian888.cn/about/"/>
     <id>http://www.huangzijian888.cn/about/</id>
     <published>2018-12-01T01:34:57.000Z</published>
-    <updated>2018-12-18T03:20:06.521Z</updated>
+    <updated>2018-12-18T03:37:47.269Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="#">本站所有文章，仅代表个人思想，与其他任何个人或组织无关！</a></p><h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>博主是一个乐于折腾的人，在技术方面是一个细节控。名字就在我的博客中，来自湖南，1999 年生人。是一名<a href="/about/dive.JPG">潜水爱好者</a>、<a href="/about/photo.jpg">摄影新人</a>，目前专注于后端研发，关注分布式系统性能优化。</p><h3 id="学习方法"><a href="#学习方法" class="headerlink" title="学习方法"></a>学习方法</h3><p>喜欢写博客、逛博客、常 Google、研读开源项目、欣赏一些优秀的架构，空余时间会读一些书丰富自己。</p><pre>每天至少读一篇博客；每周至少看一个项目；每月至少写一篇博客；每季度至少读一本书；每年至少会一门新技能；</pre><h3 id="专业技能"><a href="#专业技能" class="headerlink" title="专业技能"></a>专业技能</h3><ul><li>熟悉：Java, Lua</li><li>了解：Go, Shell, PHP, C, Python</li><li>数据库：MySQL, MongoDB</li><li>缓存：Redis</li><li>搜索引擎：Solr, Elasticsearch</li></ul><h2 id="版权说明"><a href="#版权说明" class="headerlink" title="版权说明"></a>版权说明</h2><p>除非单独说明外，个人转载本站的原创内容，请遵循 <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh" target="_blank" rel="noopener">CC BY-NC-SA 3.0</a> 的创作共享协议。</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>写这些 <a href="https://www.huangzijian888.cn/archives/">博客</a> 在于记录博主学习和成长过程的点滴，相信长期坚持这个习惯定会受益匪浅，也希望更多的人加入这个行列，来创作和分享更多优质的文章。</p>]]></content>
+    <content type="html"><![CDATA[<p><a href="#">本站所有文章，仅代表个人思想，与其他任何个人或组织无关！</a></p><h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>博主是一个乐于折腾的人，在技术方面是一个细节控。名字就在我的博客中，来自湖南，1999 年生人。是一名<a href="/about/dive.JPG">潜水爱好者</a>、<a href="/about/photo.jpg">摄影新人</a>，目前专注于后端研发，关注分布式系统性能优化。<a id="more"></a></p><h3 id="学习方法"><a href="#学习方法" class="headerlink" title="学习方法"></a>学习方法</h3><p>喜欢写博客、逛博客、常 Google、研读开源项目、欣赏一些优秀的架构，空余时间会读一些书丰富自己。</p><pre>每天至少读一篇博客；每周至少看一个项目；每月至少写一篇博客；每季度至少读一本书；每年至少会一门新技能；</pre><h3 id="专业技能"><a href="#专业技能" class="headerlink" title="专业技能"></a>专业技能</h3><ul><li>熟悉：Java, Lua</li><li>了解：Go, Shell, PHP, C, Python</li><li>数据库：MySQL, MongoDB</li><li>缓存：Redis</li><li>搜索引擎：Solr, Elasticsearch</li></ul><h2 id="版权说明"><a href="#版权说明" class="headerlink" title="版权说明"></a>版权说明</h2><p>除非单独说明外，个人转载本站的原创内容，请遵循 <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh" target="_blank" rel="noopener">CC BY-NC-SA 3.0</a> 的创作共享协议。</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>写这些 <a href="https://www.huangzijian888.cn/archives/">博客</a> 在于记录博主学习和成长过程的点滴，相信长期坚持这个习惯定会受益匪浅，也希望更多的人加入这个行列，来创作和分享更多优质的文章。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;a href=&quot;#&quot;&gt;本站所有文章，仅代表个人思想，与其他任何个人或组织无关！&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;个人介绍&quot;&gt;&lt;a href=&quot;#个人介绍&quot; class=&quot;headerlink&quot; title=&quot;个人介绍&quot;&gt;&lt;/a&gt;个人介绍&lt;/h2&gt;&lt;p&gt;博主是一个乐于折腾的
-      
+      &lt;p&gt;&lt;a href=&quot;#&quot;&gt;本站所有文章，仅代表个人思想，与其他任何个人或组织无关！&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;个人介绍&quot;&gt;&lt;a href=&quot;#个人介绍&quot; class=&quot;headerlink&quot; title=&quot;个人介绍&quot;&gt;&lt;/a&gt;个人介绍&lt;/h2&gt;&lt;p&gt;博主是一个乐于折腾的人，在技术方面是一个细节控。名字就在我的博客中，来自湖南，1999 年生人。是一名&lt;a href=&quot;/about/dive.JPG&quot;&gt;潜水爱好者&lt;/a&gt;、&lt;a href=&quot;/about/photo.jpg&quot;&gt;摄影新人&lt;/a&gt;，目前专注于后端研发，关注分布式系统性能优化。
     
     </summary>
     

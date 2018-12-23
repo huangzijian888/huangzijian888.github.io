@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>黄子健&#39;s Blog</title>
   
-  
+  <subtitle>愿半生编码，如一生老友</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.huangzijian888.cn/"/>

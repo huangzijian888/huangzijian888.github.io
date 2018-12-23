@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.huangzijian888.cn/about/index.html</loc>
+    
+    <lastmod>2018-12-23T14:47:04.364Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.huangzijian888.cn/2018/12/install-hexo/</loc>
     
     <lastmod>2018-12-23T14:45:01.444Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://www.huangzijian888.cn/project/index.html</loc>
     
     <lastmod>2018-12-23T14:40:09.771Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.huangzijian888.cn/about/index.html</loc>
-    
-    <lastmod>2018-12-23T14:25:15.663Z</lastmod>
     
   </url>
   

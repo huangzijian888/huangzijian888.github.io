@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.huangzijian888.cn/"/>
-  <updated>2018-12-23T12:37:41.122Z</updated>
+  <updated>2018-12-23T12:39:44.280Z</updated>
   <id>http://www.huangzijian888.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.huangzijian888.cn/screenshot/"/>
     <id>http://www.huangzijian888.cn/screenshot/</id>
     <published>2018-12-23T12:25:18.000Z</published>
-    <updated>2018-12-23T12:37:41.122Z</updated>
+    <updated>2018-12-23T12:39:44.280Z</updated>
     
     <content type="html"><![CDATA[<p>最近在做网页预览图片时需要截取整个页面，使用 Mac 自带的屏幕截图无法胜任，通过一番 Google 发现了下面这个小技巧<a id="more"></a></p><p>第一步 打开开发者工具 快捷键 Cmd + Opt + I</p><p>第二步 调出命令输入框 快捷键 Cmd + Shift + P</p><p>第三步 输入命令 full size screenshot（其实不需要输入完整，可以自动补全）然后按下回车即可</p>]]></content>
     
@@ -34,7 +34,9 @@
       <category term="技巧" scheme="http://www.huangzijian888.cn/categories/%E6%8A%80%E5%B7%A7/"/>
     
     
-      <category term="Chrome 网页截图" scheme="http://www.huangzijian888.cn/tags/Chrome-%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE/"/>
+      <category term="Chrome" scheme="http://www.huangzijian888.cn/tags/Chrome/"/>
+    
+      <category term="网页截图" scheme="http://www.huangzijian888.cn/tags/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE/"/>
     
   </entry>
   
@@ -43,7 +45,7 @@
     <link href="http://www.huangzijian888.cn/404/"/>
     <id>http://www.huangzijian888.cn/404/</id>
     <published>2018-12-22T12:35:33.000Z</published>
-    <updated>2018-12-22T12:48:30.172Z</updated>
+    <updated>2018-12-23T12:40:00.260Z</updated>
     
     <content type="html"><![CDATA[<p>腾讯公益 404 页面是由腾讯公司员工志愿者自主发起的互联网公益活动。网站只需要在自己的 404 页面中嵌入一段简单的代码，就能通过互联网来迅速传播失踪儿童信息，从而提高找回失踪儿童的概率。失踪儿童信息来自宝贝回家寻子网。腾讯公益 404 页面，寻找丢失儿童，让大家一起关注此项公益事业！<br>效果如下：<a href="http://huangzijian888.cn/404.html" target="_blank" rel="noopener">http://huangzijian888.cn/404.html</a><a id="more"></a></p><p>使用方法，新建 404.html 页面，放到 <strong>source</strong> 目录下，内容如下：<br><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE HTML&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>404 - 黄子健's blog<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">"description"</span> <span class="attr">content</span>=<span class="string">"404错误，页面消失啦！"</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">http-equiv</span>=<span class="string">"content-type"</span> <span class="attr">content</span>=<span class="string">"text/html;charset=utf-8;"</span>/&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">http-equiv</span>=<span class="string">"X-UA-Compatible"</span> <span class="attr">content</span>=<span class="string">"IE=edge,chrome=1"</span> /&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">"robots"</span> <span class="attr">content</span>=<span class="string">"all"</span> /&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">"robots"</span> <span class="attr">content</span>=<span class="string">"index,follow"</span>/&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">"icon"</span> <span class="attr">href</span>=<span class="string">"/favicon.ico"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span> <span class="attr">src</span>=<span class="string">"//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js"</span> <span class="attr">charset</span>=<span class="string">"utf-8"</span> <span class="attr">homePageUrl</span>=<span class="string">"http://www.huangzijian888.cn"</span> <span class="attr">homePageName</span>=<span class="string">"回到我的主页"</span>&gt;</span><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure></p><p>更多参考：<br><a href="https://www.qq.com/404/" target="_blank" rel="noopener">公益 404 页面-腾讯网</a></p>]]></content>
     
@@ -56,7 +58,9 @@
       <category term="博客" scheme="http://www.huangzijian888.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="技巧 nginx" scheme="http://www.huangzijian888.cn/tags/%E6%8A%80%E5%B7%A7-nginx/"/>
+      <category term="技巧" scheme="http://www.huangzijian888.cn/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="nginx" scheme="http://www.huangzijian888.cn/tags/nginx/"/>
     
   </entry>
   

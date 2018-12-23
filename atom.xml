@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.huangzijian888.cn/"/>
-  <updated>2018-12-23T12:35:09.005Z</updated>
+  <updated>2018-12-23T12:36:30.198Z</updated>
   <id>http://www.huangzijian888.cn/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="http://www.huangzijian888.cn/screenshot/"/>
     <id>http://www.huangzijian888.cn/screenshot/</id>
     <published>2018-12-23T12:25:18.000Z</published>
-    <updated>2018-12-23T12:35:09.005Z</updated>
+    <updated>2018-12-23T12:36:30.198Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="#">最近在做网页预览图片时需要截取整个页面，使用 Mac 自带的屏幕截图无法胜任，通过一番 Google 发现了下面这个小技巧</a></p><h2 id="第一步-打开开发者工具-快捷键-Cmd-Opt-I"><a href="#第一步-打开开发者工具-快捷键-Cmd-Opt-I" class="headerlink" title="第一步 打开开发者工具 快捷键 Cmd + Opt + I"></a>第一步 打开开发者工具 快捷键 Cmd + Opt + I</h2><h2 id="第二步-调出命令输入框-快捷键-Cmd-Shift-P"><a href="#第二步-调出命令输入框-快捷键-Cmd-Shift-P" class="headerlink" title="第二步 调出命令输入框 快捷键 Cmd + Shift + P"></a>第二步 调出命令输入框 快捷键 Cmd + Shift + P</h2><h2 id="第三步-输入命令-full-size-screenshot（其实不需要输入完整，可以自动补全）然后按下回车即可"><a href="#第三步-输入命令-full-size-screenshot（其实不需要输入完整，可以自动补全）然后按下回车即可" class="headerlink" title="第三步 输入命令 full size screenshot（其实不需要输入完整，可以自动补全）然后按下回车即可"></a>第三步 输入命令 full size screenshot（其实不需要输入完整，可以自动补全）然后按下回车即可</h2>]]></content>
+    <content type="html"><![CDATA[<p>最近在做网页预览图片时需要截取整个页面，使用 Mac 自带的屏幕截图无法胜任，通过一番 Google 发现了下面这个小技巧</p><p>第一步 打开开发者工具 快捷键 Cmd + Opt + I</p><p>第二步 调出命令输入框 快捷键 Cmd + Shift + P</p><p>第三步 输入命令 full size screenshot（其实不需要输入完整，可以自动补全）然后按下回车即可</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;a href=&quot;#&quot;&gt;最近在做网页预览图片时需要截取整个页面，使用 Mac 自带的屏幕截图无法胜任，通过一番 Google 发现了下面这个小技巧&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第一步-打开开发者工具-快捷键-Cmd-Opt-I&quot;&gt;&lt;a href=&quot;#第一步-打开开发者工
+        &lt;p&gt;最近在做网页预览图片时需要截取整个页面，使用 Mac 自带的屏幕截图无法胜任，通过一番 Google 发现了下面这个小技巧&lt;/p&gt;
+&lt;p&gt;第一步 打开开发者工具 快捷键 Cmd + Opt + I&lt;/p&gt;
+&lt;p&gt;第二步 调出命令输入框 快捷键 Cmd + Shift + P
       
     
     </summary>

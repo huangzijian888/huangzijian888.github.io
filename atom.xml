@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.huangzijian888.cn/"/>
-  <updated>2018-12-26T08:17:16.669Z</updated>
+  <updated>2018-12-26T08:29:18.568Z</updated>
   <id>http://www.huangzijian888.cn/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.huangzijian888.cn/2018/12/MarkdownUse/"/>
     <id>http://www.huangzijian888.cn/2018/12/MarkdownUse/</id>
     <published>2018-12-26T08:06:15.000Z</published>
-    <updated>2018-12-26T08:17:16.669Z</updated>
+    <updated>2018-12-26T08:29:18.568Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="#">此文总结本人在使用Markdown写作过程中的一些常用方法、技巧。持续更新中···</a><a id="more"></a></p><h1 id="插入表格"><a href="#插入表格" class="headerlink" title="插入表格"></a>插入表格</h1><table><thead><tr><th style="text-align:left">左对齐</th><th style="text-align:center">居中</th><th style="text-align:right">右对齐</th></tr></thead><tbody><tr><td style="text-align:left">col 3 is</td><td style="text-align:center">some wordy text</td><td style="text-align:right">$1600</td></tr><tr><td style="text-align:left">col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr><tr><td style="text-align:left">zebra stripes</td><td style="text-align:center">are neat</td><td style="text-align:right">$1</td></tr></tbody></table><h1 id="复选框"><a href="#复选框" class="headerlink" title="复选框"></a>复选框</h1><ul><li style="list-style: none"><input type="checkbox"> 帅否</li></ul>]]></content>
+    <content type="html"><![CDATA[<p><a href="#">此文总结本人在使用Markdown写作过程中的一些常用方法、技巧。持续更新中···</a><a id="more"></a></p><h1 id="插入表格"><a href="#插入表格" class="headerlink" title="插入表格"></a>插入表格</h1><table><thead><tr><th style="text-align:left">左对齐</th><th style="text-align:center">居中</th><th style="text-align:right">右对齐</th></tr></thead><tbody><tr><td style="text-align:left">col 3 is</td><td style="text-align:center">some wordy text</td><td style="text-align:right">$1600</td></tr><tr><td style="text-align:left">col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr><tr><td style="text-align:left">zebra stripes</td><td style="text-align:center">are neat</td><td style="text-align:right">$1</td></tr></tbody></table><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">| 左对齐 | 居中  | 右对齐 |</span><br><span class="line">| :------------ |:---------------:| -----:|</span><br><span class="line">| col 3 is      | some wordy text | $1600 |</span><br><span class="line">| col 2 is      | centered        |   $12 |</span><br><span class="line">| zebra stripes | are neat        |    $1 |</span><br></pre></td></tr></table></figure><h1 id="复选框"><a href="#复选框" class="headerlink" title="复选框"></a>复选框</h1><ul><li style="list-style: none"><input type="checkbox"> 帅否<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">- [ ] 帅否</span><br></pre></td></tr></table></figure></li></ul>]]></content>
     
     <summary type="html">
     
